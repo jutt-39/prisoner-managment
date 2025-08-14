@@ -1,2 +1,13 @@
-# prisoner-managment
-My first web project features a dual-interface system (admin/client) built with HTML, CSS, PHP, MySQL.  Client Side: Public portal to search prisoner details via ID card.  Admin Side: Secure dashboard to manage prisoner data, meetings, and status updates.  Backend: PHP handles CRUD operations; MySQL ensures data integrity with encrypted logins.
+Prison Management System - Web Development Project
+Admin Portal (Staff Access)
+Public Portal (Visitor Access)
+Admin Side
+Prisoner Management
+Add/edit/delete prisoner records
+Upload photos & documents
+Prisoner Search
+Find details using ID/booking number
+Frontend
+Responsive Design: Bootstrap 5 grid system
+Dynamic UI: JavaScript form validation
+MIT License - Free for academic/learning use
