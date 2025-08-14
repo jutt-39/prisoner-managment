@@ -18,7 +18,7 @@ A web-based system for managing prisoner records in a facility. This project hel
 3. Import the SQL database from the `database` folder into your MySQL server.
 4. Update database connection details in your configuration file.
 5. Start Apache and MySQL through XAMPP.
-6. Access the project in your browser: `http://localhost/prisoner-management`
+6. Access the project in your browser: `http://localhost/prisoner`
 
 ## Usage
 
